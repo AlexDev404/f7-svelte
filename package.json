@@ -39,7 +39,7 @@
     "swiper": "^11.2.10"
   },
   "devDependencies": {
-    "@capacitor/cli": "^7.4.2",
+    "@capacitor/cli": "^8.0.2",
     "@sveltejs/vite-plugin-svelte": "^6.1.2",
     "cordova-res": "^0.15.4",
     "cross-env": "^10.0.0",
